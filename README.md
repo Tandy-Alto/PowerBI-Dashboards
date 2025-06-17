@@ -1,4 +1,4 @@
-# PowerBI-Dashboards
+# Pregrad Course Work
 This is the work I did while undergoing my course training with Pregrad. 
 
 I created dashboards on 2 financial datasets, showing basic information like average revenue and sales over time, and time-series analysis.
